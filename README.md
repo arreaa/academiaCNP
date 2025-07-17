@@ -67,7 +67,7 @@ Bot.Discord_Rol/
 
 ## 🧑‍💻 Créditos y soporte
 
-Desarrollado por Iñigo y mejorado con ayuda de GitHub Copilot.
+Desarrollado por Iñigo Arredondo.
 
 ¿Dudas o sugerencias? ¡Abre un issue o contacta al desarrollador!
 

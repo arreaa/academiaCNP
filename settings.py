@@ -1,6 +1,6 @@
 import discord
 
-TOKEN = "MTMzNTYzNDI2NjI4MDY5Mzc3MA.GyewU7.f2UAPcIxbxtvWBw2V13iPlAmiK2JCsfHPFVsLc"
+TOKEN = ""
 prefix = "a!"
 
 # Canales
